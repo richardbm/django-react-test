@@ -1,0 +1,9 @@
+backports.shutil-get-terminal-size==1.0.0
+Django==1.8.15
+django-webpack-loader==0.6.0
+pathlib==1.0.1
+pew==1.1.2
+pipenv==11.0.2
+shutilwhich==1.1.0
+virtualenv==15.1.0
+virtualenv-clone==0.3.0
